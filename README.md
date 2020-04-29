@@ -5,4 +5,4 @@
 
 ## Link to tutorial:
 
-https://codezen.io/author/sapnesh/
+https://codezen.io/how-to-manage-logged-in-devices-in-laravel/
